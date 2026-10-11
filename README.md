@@ -1,6 +1,9 @@
 # Pycraft 3D
 Have you wanted a Minecraft copy that was really for free? Like, freere than the first version? Try ***Pycraft 3D***! It's so fun!
 
+<img width="1529" height="859" alt="Screenshot 2026-10-11 134214" src="https://github.com/user-attachments/assets/2fa725c0-6cbf-4749-9f3c-65b2b437c372" />
+this is a cool in game screen shot.
+
 ## Software Requirements
 You need the following things:
 - python 3.12+
