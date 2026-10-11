@@ -13,11 +13,14 @@ You need the following things:
 Use WASD to move around.
 ### Looking
 Use the mouse to look and interact with the your environment.
+### Respawning
+You can the respawning by prssing the R key.
+## Exit
+Pres excape.
 
 ## Feachers
 - Real time, 3 dee graphic's!
-- A way to screenshot what you want!
-- Basic message system that is not a chat because i dont feel like adding that!
+- A way too respawn!
 - Four types of blocks!
 - Zero types of mobile entities except for **YOU**!.
 - Sounds!
